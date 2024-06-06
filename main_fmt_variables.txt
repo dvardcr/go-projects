@@ -1,0 +1,36 @@
+// fmt.Println("Hello world!")
+	// strings
+	// var nameOne string = "Mario"
+	// var nameTwo = "Luigi"
+	// var nameThree string // empty string
+
+	// fmt.Println(nameOne + ", " + nameTwo + " and " + nameThree)
+
+	// nameThree = "Peach"
+	// nameOne = "Bowser"
+
+	// fmt.Println(nameOne + ", " + nameTwo + " and " + nameThree)
+
+	// nameFour := "Yoshi" // : is used for string, cannot be used outside a func
+
+	// fmt.Println(nameFour)
+
+	// ints
+
+	var ageOne int = 20
+	var ageTwo = 30
+	ageThree := 40
+
+	fmt.Println(ageOne, ageTwo, ageThree)
+
+	// bits & memory
+
+	// var numOne int8 = 25 //can define bits
+	// var numTwo int8 = -128
+	// var numThree uint16 = 255 // u is used for positive numbers only
+
+	// float
+
+	var scoreOne float32 = 25.98
+	var scoreTwo float64 = 88.6
+	scoreThree := 1.5
